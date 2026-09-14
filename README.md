@@ -1,16 +1,13 @@
-## Hi there 👋
+![C](https://img.shields.io/badge/--00599C?style=plastic&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/--3776AB?style=plastic&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/--ED8B00?style=plastic&logo=openjdk&logoColor=white)
 
-<!--
-**ducpsk24-glitch/ducpsk24-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## chào mọi người!
 
-Here are some ideas to get you started:
+- Tôi là Khuất Đức, sinh năm 2010, sống tại Lào Cai (Gần cửa khẩu quốc tế)
+- Tôi ở đây là để đăng, giới thiệu và thực hiện một dự án nhỏ với bản thân, mục đích thoả mãn sở thích lập trình system, phát triển bản thân
+- bạn có thể tìm hiểu thêm thông tin của tôi bằng cách [bấm vào đây](https://github.com/ducpsk24-glitch/Intro-Me) để tải về và trải nghiệm công cụ hồ sơ cá nhân đầu tiên của tôi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect to me
+- **SĐT**: (+84) 363 829 426
+- **Email**: ducps125@gmail.com
